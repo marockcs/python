@@ -1,2 +1,2 @@
 # python
-test
+Repo for learning Python and some files storage
